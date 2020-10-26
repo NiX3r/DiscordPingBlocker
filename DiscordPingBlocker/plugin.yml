@@ -1,0 +1,6 @@
+name: DiscordPingBlocker
+description: Plugin For Dubcat
+author: NiX3r
+website: https://www.facebook.com/NiX3rNiX3r
+main: cz.nixdevelopment.dpb.DiscordPingBlocker
+version: 1.5.1

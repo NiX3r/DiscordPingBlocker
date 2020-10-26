@@ -1,0 +1,6 @@
+Prefix: '&6Dubcat » &7'
+BlockOnlyHereAndEveryone: true
+CancelMessageOnUse: false
+Messages:
+    HereAndEveryoneBlocked: 'Je zakázáno pingovat všechny na discordu!'
+    WholePingBlocked: 'Jakékoliv pingování na discodu je zakázáno!'
